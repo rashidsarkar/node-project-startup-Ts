@@ -1,0 +1,3 @@
+PORT = 5000
+DATABASE_URL=mongodb+srv://level-2:PvPo3pTB0XcZDgZf@cluster0.ydmxw3q.mongodb.net/first-project?retryWrites=true&w=majority&appName=Cluster0
+NODE_ENV=development
